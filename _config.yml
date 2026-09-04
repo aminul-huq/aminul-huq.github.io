@@ -1,0 +1,7 @@
+title: Aminul Huq
+url: https://aminul-huq.github.io
+baseurl: ""
+include:
+  - .nojekyll
+exclude:
+  - README.md

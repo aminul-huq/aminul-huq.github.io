@@ -1,17 +1,19 @@
-# aminul-huq.github.io
+# Aminul Huq — Academic Website
 
-Academic website for Aminul Huq, built with the Minimal Mistakes Jekyll theme and designed for free hosting with GitHub Pages.
+This is a static GitHub Pages website inspired by an editorial academic layout, with the information architecture of a researcher portfolio.
 
 ## Publish
 
-Copy these files to the root of the public repository:
+Upload the **contents of this folder** to the root of `aminul-huq/aminul-huq.github.io`. Keep `index.html` at repository root.
 
-`aminul-huq/aminul-huq.github.io`
+## Profile photo
 
-GitHub Pages should build the site from the default branch. The site URL is:
+The site currently uses the GitHub avatar. To use a custom photo, place it at `assets/images/profile.jpg` and replace the profile image URL in each HTML file with `assets/images/profile.jpg`.
 
-https://aminul-huq.github.io/
+## Publications
 
-## Important
+The publication page is `publications.html`. Selected research on the homepage is in `index.html`. Entries are currently ordered newest to oldest.
 
-Keep the existing `presentations/` directory when copying these files so the PDFs already stored there remain available.
+## Styling
+
+Edit `assets/css/style.css`. The main accent is `--accent: #245a8d;` near the top of the file.
