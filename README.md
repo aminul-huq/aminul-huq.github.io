@@ -8,11 +8,11 @@ Upload the **contents of this folder** to the root of `aminul-huq/aminul-huq.git
 
 ## Profile photo
 
-The site currently uses the GitHub avatar. To use a custom photo, place it at `assets/images/profile.jpg` and replace the profile image URL in each HTML file with `assets/images/profile.jpg`.
+The site uses `assets/images/Aminul.png` for the profile photo. Keep your existing `Aminul.png` file in that folder when uploading this update.
 
 ## Publications
 
-The publication page is `publications.html`. Selected research on the homepage is in `index.html`. Entries are currently ordered newest to oldest.
+The publication page is labeled **Selected Publications** and links to Google Scholar for the complete list. Selected research on the homepage is in `index.html`. Entries are ordered newest to oldest.
 
 ## Styling
 
